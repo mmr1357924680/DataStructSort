@@ -1,0 +1,11 @@
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\bin\Debug\netcoreapp2.1\DataStructSort.deps.json
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\bin\Debug\netcoreapp2.1\DataStructSort.runtimeconfig.json
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\bin\Debug\netcoreapp2.1\DataStructSort.runtimeconfig.dev.json
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\bin\Debug\netcoreapp2.1\DataStructSort.dll
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\bin\Debug\netcoreapp2.1\DataStructSort.pdb
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.csprojAssemblyReference.cache
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.csproj.CoreCompileInputs.cache
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.AssemblyInfoInputs.cache
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.AssemblyInfo.cs
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.dll
+C:\Users\pan\source\repos\DataStructSort\DataStructSort\obj\Debug\netcoreapp2.1\DataStructSort.pdb
