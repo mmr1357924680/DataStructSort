@@ -30,7 +30,7 @@ namespace DataStructSort
         {
             //临时空间，存放合并后的数据
             int[] array1 = new int[high - low + 1];
-            int i = low;                                 //
+            int i = low;                                 
             int j = mid + 1;
         }
     }
