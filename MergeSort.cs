@@ -29,7 +29,7 @@ namespace DataStructSort
         private void Merge(int low,int mid,int high)
         {
             //临时空间，存放合并后的数据
-            int[] array1 = new int[high - low + 1];         //版本1test
+            int[] array1 = new int[high - low + 1];         //版本1test（Test2做的修改）
             int i = low;                                 
             int j = mid + 1;
         }
