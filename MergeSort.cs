@@ -9,7 +9,7 @@ namespace DataStructSort
     /// </summary>
     class MergeSortDS
     {
-        private int[] array;                             //待排序序列，test1
+        private int[] array;                             //待排序序列，test2
         public MergeSortDS(int[] _arr)
         {
             this.array = _arr;
