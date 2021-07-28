@@ -5,7 +5,7 @@ using System.Text;
 namespace DataStructSort
 {
     /// <summary>
-    /// 二路归并排序
+    /// 二路归并排序test分支
     /// </summary>
     class MergeSortDS
     {
